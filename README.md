@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Madagascar-8A2BE2?style=for-the-badge&logoColor=white" alt="Madagascar">
-  <img src="https://img.shields.io/badge/M1%20RTC-8A2BE2?style=for-the-badge&logoColor=white" alt="M1 Réseaux & Télécoms">
+  <img src="https://img.shields.io/badge/M1%20RTC-8A2BE2?style=for-the-badge&logoColor=white" alt="M1 STIC . Réseaux & Télécoms">
   <img src="https://img.shields.io/badge/FR%20%2F%20EN-8A2BE2?style=for-the-badge&logoColor=white" alt="Langues">
 </p>
 
