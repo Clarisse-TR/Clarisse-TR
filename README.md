@@ -23,7 +23,7 @@
       <ul>
         <li>🖥️ Actuellement concentrée sur les architectures réseaux d'entreprise et le développement web.</li>
         <li>🎓 En apprentissage continu — Réseaux, IA, Cloud & Web.</li>
-        <li>💬 Français (natif), Anglais (courant).</li>
+        <li>💬 Français (courant), Anglais (technique).</li>
         <li>⚡ <em>"First, solve the problem. Then, write the code."</em></li>
       </ul>
     </td>
@@ -84,7 +84,7 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_D_UTILISATEUR&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Statistiques de Clarisse" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clarisse-TR&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Statistiques de Clarisse" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_D_UTILISATEUR&layout=compact&theme=nord&hide_border=true" alt="Langages de Clarisse" width="48%">
 </p>
 
@@ -97,8 +97,7 @@
 ### 📬 Me contacter
 
 <p align="center">
-  <a href="https://linkedin.com/in/VOTRE_LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:votre.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:clarisserr73@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
