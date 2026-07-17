@@ -1,52 +1,106 @@
-<!-- Remplacer l'URL ci-dessous par le lien de votre image hébergée ou ajoutez-la au dépôt et utilisez son chemin relatif -->
-<h1 align="center">Salut ! Moi c'est Clarisse 👋</h1>
+<!-- 
+  Fichier README.md personnalisé basé sur le profil de Norman, adapté en version féminine pour Clarisse.
+  N'oubliez pas de remplacer "VOTRE_NOM_D_UTILISATEUR" par votre vrai identifiant GitHub et de mettre à jour vos liens de contact.
+-->
+
 <p align="center">
-  <strong>Étudiante en Master 1 Réseaux & Télécommunications</strong><br>
-  Explore le développement web, la Data Science et le Machine Learning.
+  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/VOTRE_LIEN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:votre.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Madagascar-8A2BE2?style=for-the-badge&logoColor=white" alt="Madagascar">
+  <img src="https://img.shields.io/badge/M1%20RTC-8A2BE2?style=for-the-badge&logoColor=white" alt="M1 RTC">
+  <img src="https://img.shields.io/badge/FR%20%2F%20EN-8A2BE2?style=for-the-badge&logoColor=white" alt="Langues">
 </p>
 
 ---
 
-### 💫 À propos de moi
-
-Actuellement en **Master 1 Réseaux et Télécommunications**, je me passionne pour la connectivité, l'analyse des données et le développement d'applications modernes. Mon parcours me permet de faire le pont entre l'infrastructure réseau et les applications intelligentes qui l'utilisent.
-
-* 🎓 **Formation** : Master 1 Réseaux & Télécommunications
-* 💡 **Intérêts** : Architecture Réseau, Sécurité, Intelligence Artificielle, Web Dynamique et Cloud.
-* 🌱 **En cours d'apprentissage** : Approfondissement des architectures de réseaux d'entreprise et des algorithmes de Machine Learning appliqués.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🙋 À propos</h3>
+      <p>Étudiante en <strong>Master 1 Réseaux & Télécommunications</strong>. Je me passionne pour la connectivité des infrastructures réseaux, le développement d'applications web modernes et la recherche de solutions intelligentes grâce à l'Intelligence Artificielle et à la Data Science.</p>
+      <ul>
+        <li>🖥️ Actuellement concentrée sur les architectures réseaux d'entreprise et le développement web.</li>
+        <li>🎓 En apprentissage continu — Réseaux, IA, Cloud & Web.</li>
+        <li>💬 Français (natif), Anglais (courant).</li>
+        <li>⚡ <em>"First, solve the problem. Then, write the code."</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Formation</h3>
+      <p><strong>Master 1 - RTC</strong><br>
+      Réseaux Télécommunications et Réseaux<br>
+      <em>École Supérieure Polytechnique d'Antananarivo (ESPA)</em></p>
+      <p>Formation théorique et pratique alliant infrastructures réseaux, télécommunications et systèmes d'information, complétée par du développement web et de l'analyse de données avec l'IA.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Compétences & Technologies
+### ⚙️ Stack Technique
 
-Afin de rester dans un style épuré et minimaliste, voici les outils et technologies que j'utilise fréquemment ou que j'apprends à maîtriser :
+<p align="center">
+  <strong>Frontend & Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-#### 🌐 Réseaux & Télécommunications
-* **Protocoles & Routage** : TCP/IP, OSPF, BGP, VLANs
-* **Simulations & Outils** : Cisco Packet Tracer, Wireshark, GNS3
+<p align="center">
+  <strong>Backend & Bases de données</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-#### 💻 Programmation & Web
-* **Langages** : Python, JavaScript, HTML5 / CSS3, SQL
-* **Environnements** : Node.js, Linux / Bash, Git & GitHub
+<p align="center">
+  <strong>Intelligence Artificielle & Data Science</strong><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+</p>
 
-#### 📊 Data Science & IA
-* **Bibliothèques** : Pandas, NumPy, Scikit-Learn
+<p align="center">
+  <strong>Réseaux & Infrastructure</strong><br>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
 
 ---
 
 ### 📊 Statistiques GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=light&hide_border=true&count_private=true" alt="Statistiques de Clarisse" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=light&hide_border=true" alt="Langages les plus utilisés" width="48%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_D_UTILISATEUR&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Statistiques de Clarisse" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_D_UTILISATEUR&layout=compact&theme=nord&hide_border=true" alt="Langages de Clarisse" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_NOM_D_UTILISATEUR&theme=nord&hide_border=true" alt="GitHub Streak" width="96%">
 </p>
 
 ---
 
-### 🤝 Contactez-moi
-* **Email** : [votre.email@domain.com](mailto:clarisserr73@gmail.com)
+### 📬 Me contacter
+
+<p align="center">
+  <a href="https://linkedin.com/in/VOTRE_LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:votre.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting!</strong>
+</p>
