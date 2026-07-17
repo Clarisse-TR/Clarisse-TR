@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="50%">
+  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="70%">
 </p>
 
 <p align="center">
