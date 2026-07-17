@@ -1,10 +1,6 @@
-<!-- 
-  Fichier README.md personnalisé basé sur le profil de Norman, adapté en version féminine pour Clarisse.
-  N'oubliez pas de remplacer "VOTRE_NOM_D_UTILISATEUR" par votre vrai identifiant GitHub et de mettre à jour vos liens de contact.
--->
 
 <p align="center">
-  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="70%">
+  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="50%">
 </p>
 
 <p align="center">
@@ -84,12 +80,12 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clarisse-TR&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Statistiques de Clarisse" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarisse-TR&layout=compact&theme=nord&hide_border=true" alt="Langages de Clarisse" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clarisse-TR&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarisse-TR&layout=compact&theme=nord&hide_border=true" alt="" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarisse-TR&theme=nord&hide_border=true" alt="GitHub Streak" width="96%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarisse-TR&theme=nord&hide_border=true" alt="" width="96%">
 </p>
 
 ---
