@@ -85,11 +85,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clarisse-TR&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Statistiques de Clarisse" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_D_UTILISATEUR&layout=compact&theme=nord&hide_border=true" alt="Langages de Clarisse" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarisse-TR&layout=compact&theme=nord&hide_border=true" alt="Langages de Clarisse" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_NOM_D_UTILISATEUR&theme=nord&hide_border=true" alt="GitHub Streak" width="96%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarisse-TR&theme=nord&hide_border=true" alt="GitHub Streak" width="96%">
 </p>
 
 ---
