@@ -4,13 +4,13 @@
 -->
 
 <p align="center">
-  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="100%">
+  <img src="clarisse_header_banner.png" alt="Hi, I'm Clarisse" width="70%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Madagascar-8A2BE2?style=for-the-badge&logoColor=white" alt="Madagascar">
-  <img src="https://img.shields.io/badge/M1%20RTC-8A2BE2?style=for-the-badge&logoColor=white" alt="M1 STIC . Réseaux & Télécoms">
-  <img src="https://img.shields.io/badge/FR%20%2F%20EN-8A2BE2?style=for-the-badge&logoColor=white" alt="Langues">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Madagascar-8A2BE2?style=for-the-badge&logoColor=white" alt="Madagascar">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20M1%20STIC%20.%20R%C3%A9seaux%20%26%20T%C3%A9l%C3%A9coms-8A2BE2?style=for-the-badge&logoColor=white" alt="M1 STIC . Réseaux & Télécoms">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20FR%20%2F%20EN-8A2BE2?style=for-the-badge&logoColor=white" alt="Langues">
 </p>
 
 ---
@@ -29,7 +29,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Formation</h3>
-      <p><strong>Master 1 - RTC</strong><br>
+      <p><strong>Master 1 - STIC . Réseaux & Télécoms</strong><br>
       Réseaux Télécommunications et Réseaux<br>
       <em>École Supérieure Polytechnique d'Antananarivo (ESPA)</em></p>
       <p>Formation théorique et pratique alliant infrastructures réseaux, télécommunications et systèmes d'information, complétée par du développement web et de l'analyse de données avec l'IA.</p>
